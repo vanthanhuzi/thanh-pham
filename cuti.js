@@ -1,0 +1,6 @@
+
+function showmesseage() {
+    alert("xinchao!");
+}
+
+
